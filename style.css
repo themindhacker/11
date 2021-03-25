@@ -7,6 +7,15 @@
 ::-webkit-scrollbar {
     width: 5px;
 }
+.status-msg-wrap,
+.blog-pager,
+.blog-feeds,
+.widget-item-control {
+	display: none;
+}
+
+
+
 *,
 body,
 html {
